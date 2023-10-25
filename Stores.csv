@@ -1,0 +1,35 @@
+A Opening batsman score an average 45 runs with the standard deviation of 14 for the next match,
+a) Probability sum above 60,
+Mean,45
+Std Dev,14
+Above 60,14.20%
+,
+b) Probability of score below 10,
+Mean,45
+Std Dev,14
+Below 10,0.6%
+,
+c) Probability of him Scoring Century ,
+Mean,45
+Std Dev,14
+Below 100,100%
+Above 100,0.0043%
+d) If he plays 300 match how many 50 will he score,
+Mean,45
+Std Dev,14
+Below50,63.95%
+Above 50,36.05%
+For 300,108
+,
+"2. 10000 Students wrote a medical entrance exam with total marks of 200, The average score was 182 with Std Dev of 6",
+a) How many Students Scored 200,
+Mean,182
+Std,6
+Below 200,0.998650102
+Above 200,0.13%
+Total,13
+,
+b)The management want to interview top 1000 students What should be cut off mark,
+Mean,182
+Std Dev,6
+Cut off,189.7
